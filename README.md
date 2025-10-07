@@ -73,6 +73,30 @@ Konsultacje przez MS Teams lub we wtorki w sali G-103, 08:00-09:40 (po wcześnie
   * Konkurs w trakcie laboratorium
 
 ---
+
+#### Projekt analityczny (50 punktów)
+
+Do stworzenia raportu proszę wykorzystać zbiór danych https://archive.ics.uci.edu/ml/datasets/Adult lub inny o podobnej charakterystyce (liczba rekordów, liczba atrybutów, konieczność zaadresowania jakości danych). Projekt można wykonywać w grupach do 3 osób.
+
+Zadanie polega na analizie danych, przeprowadzeniu procesu modelowania i sporządzeniu raportu o następującej strukturze:
+
+1) Wprowadzanie i opis wybranego problemu (klasyfikacja lub regresja), opis zbioru danych.
+
+2) Czyszczenie i wstępne przetwarzanie danych - imputacja braków danych, standaryzacja, kodowanie typu one-hot, transformacja wartości odstających, itp.
+
+3) Graficzna i opisowa analiza eksploracyjna (EDA), m.in. graficzna prezentacja zależności pomiędzy wybraną zmienną celu i zmiennymi niezależnymi, wykonanie i opisanie wyników segmentacji (klastrowania) rekordów, itp.
+
+4) Stworzenie modeli i tuning hiperparametrów do zadania klasyfikacji lub regresji
+
+5) Graficzna i opisowa ocena oraz wybór modelu
+
+6) Podsumowanie wyników, dyskusja na temat napotkanych problemów, wyzwań i zastosowanych rozwiązań
+
+Kod i opisy/komentarze powinny zawierać się w notatniku Jupyter. 
+
+Raporty proszę przesyłać na adres _lkrain@sgh.waw.pl_ w formacie .html oraz .ipynb. Na szóstych zajęciach projekt będzie prezentowany w trakcie laboratorium ok. 15 min. Termin oddania raportów to **20.01.2026**. 
+
+---
 **Ocena końcowa**
 |Od |Do|Ocena|
 |-----|--|--------|
