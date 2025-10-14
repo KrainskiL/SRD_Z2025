@@ -86,7 +86,7 @@ Zadanie polega na analizie danych, przeprowadzeniu procesu modelowania i sporzą
 
 3) Graficzna i opisowa analiza eksploracyjna (EDA), m.in. graficzna prezentacja zależności pomiędzy wybraną zmienną celu i zmiennymi niezależnymi, wykonanie i opisanie wyników segmentacji (klastrowania) rekordów, itp.
 
-4) Stworzenie modeli i tuning hiperparametrów do zadania klasyfikacji lub regresji
+4) Stworzenie min. 3 modeli i tuning hiperparametrów do zadania klasyfikacji lub regresji
 
 5) Graficzna i opisowa ocena oraz wybór modelu
 
