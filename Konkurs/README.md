@@ -18,3 +18,44 @@ Proszę sprawdzić czy kolejność predykcji zgadza się z kolejnością obserwa
 Tabela z rankingiem zespołów pojawi się na GitHubie w poniższym pliku README. Najlepszy zespół w każdej grupie zajęciowej otrzyma dodatkowe 5 punktów, kolejny 4 punkty, itd.
 
 Życzę powodzenia.
+
+### Wyniki konkursu
+
+**Grupa 11**
+
+| **Zespół**          | **F1-score** | **Punkty** | **Model**           | **Język programowania** |
+|---------------------|--------------|------------|---------------------|-------------------------|
+| Bigos               | 0.7946       | 5          | XGBoost             | Python                  |
+| Piraci z Karaibów   | 0.7862       | 4          | XGBoost             | Python                  |
+| Baseline            | 0.7859       | 3          | XGBoost             | Python                  |
+| Belgijskie Tygryski | 0.7849       | 2          | Random Forest       | Python                  |
+| MCJG                | 0.7830       | 1          | Random Forest       | Python                  |
+| MKJW                | 0.7029       | 0          | Logistic Regression | Python                  |
+
+**Grupa 13**
+
+| **Zespół**           | **F1-score** | **Punkty** | **Model**                         | **Język programowania** |
+|----------------------|--------------|------------|-----------------------------------|-------------------------|
+| Szwadron Wilków Alfa | 0.7955       | 5          | Gradient Boosting Classifier      | Python                  |
+| Wojownicy Wody       | 0.7947       | 4          | Hist Gradient Boosting Classifier | Python                  |
+| MB Haters Club       | 0.7895       | 3          | XGBoost                           | Python                  |
+| Pogchamp Babci       | 0.7452       | 2          | Random Forest                     | Python                  |
+
+**Grupa 15**
+
+| **Zespół**    | **F1-score** | **Punkty** | **Model**                    | **Język programowania** |
+|---------------|--------------|------------|------------------------------|-------------------------|
+| Szczęśliwa 17 | 0.7915       | 5          | Gradient Boosting Classifier | Python                  |
+| Mikołajki     | 0.7873       | 4          | Gradient Boosting Classifier | Python                  |
+| LAM           | 0.5199       | 3          | Deep Neural Network          | Python                  |
+| Top 5         | 0            | 2          | XGBoost                      | Python                  |
+
+**Grupa 17**
+
+| **Zespół**   | **F1-score** | **Punkty** | **Model**                    | **Język programowania** |
+|--------------|--------------|------------|------------------------------|-------------------------|
+| Jednoosobowy | 0.7941       | 5          | Gradient Boosting Classifier | Python                  |
+| Super Kotki  | 0.7892       | 4          | XGBoost                      | Python                  |
+| PT_PT        | 0.7826       | 3          | Random Forest                | Python                  |
+| Smakosze     | 0.7775       | 2          | XGBoost                      | Python                  |
+| MDM          | 0.7694       | 1          | Random Forest                | Python                  |
