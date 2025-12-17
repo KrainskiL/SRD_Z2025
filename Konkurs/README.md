@@ -64,3 +64,46 @@ Tabela z rankingiem zespołów pojawi się na GitHubie w poniższym pliku README
 | PT_PT        | 0.7826       | 3          | Random Forest                | Python                  |
 | Smakosze     | 0.7775       | 2          | XGBoost                      | Python                  |
 | MDM          | 0.7694       | 1          | Random Forest                | Python                  |
+
+**Grupa 12**
+
+| **Nazwa**              | **Accuracy** | **Punkty** | **Model**               | **Język programowania** |
+|------------------------|--------------|------------|-------------------------|-------------------------|
+| Konkurs SRD            | 0.8706       | 5          | XGBoost                 | Python                  |
+| Złoty Algorytm         | 0.8684       | 4          | XGBoost                 | Python                  |
+| jednoosobowygr12       | 0.8684       | 4          | Random Forest           | Python                  |
+| Kawalerzy Na Skuterach | 0.8648       | 3          | AutoML Stacked Ensemble | Python                  |
+| Cukierki               | 0.8538       | 2          | SVM                     | Python                  |
+| IPA                    | 0.4814       | 1          | Deep Neural Network     | Python                  |
+
+**Grupa 14**
+
+| **Nazwa**                | **Accuracy** | **Punkty** | **Model**                    | **Język programowania** |
+|--------------------------|--------------|------------|------------------------------|-------------------------|
+| Motor Lublin             | 0.8706       | 5          | Random Forest                | Python                  |
+| Szybko i do domu         | 0.8698       | 4          | XGBoost                      | Python                  |
+| witam (big data edition) | 0.8684       | 3          | XGBoost                      | Python                  |
+| Wtorek15                 | 0.8610       | 2          | XGBoost                      | Python                  |
+| XmasBoost                | 0.6886       | 1          | Gradient Boosting Classifier | Python                  |
+
+**Grupa 16**
+
+| **Nazwa**        | **Accuracy** | **Punkty** | **Model**                                 | **Język programowania** |
+|------------------|--------------|------------|-------------------------------------------|-------------------------|
+| Borówka          | 0.8724       | 5          | ???                                       | Python                  |
+| Demony Prędkości | 0.8706       | 4          | Weighted Ensemble of Boosted Trees Models | Python                  |
+| Three Dummies    | 0.8692       | 3          | Gradient Boosting Classifier              | Python                  |
+| KOM              | 0.8678       | 2          | Gradient Boosting Classifier              | Python                  |
+
+**Grupa 18**
+
+| **Nazwa**   | **Accuracy** | **Punkty** | **Model**                     | **Język programowania** |
+|-------------|--------------|------------|-------------------------------|-------------------------|
+| PS2         | 0.8718       | 5          | XGBoost                       | Python                  |
+| Klaunfiesta | 0.8716       | 4          | LightGBM                      | Python                  |
+| Charakterni | 0.8706       | 3          | Gradient Boosting Classifier  | Python                  |
+| PYP.PY      | 0.8694       | 2          | Gradient Boosting Classifier? | Python                  |
+| XYZ         | 0.8690       | 1          | Gradient Boosting Classifier  | Python                  |
+| AWAJ        | 0.8690       | 1          | Gradient Boosting Classifier  | Python                  |
+| Autystyk    | 0.8690       | 1          | XGBoost                       | R                       |
+| Umpalumpas  | 0.8638       | 0          | Gradient Boosting Classifier  | Python                  |
