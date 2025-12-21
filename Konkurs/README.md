@@ -3,7 +3,7 @@
 Na czas konkursu należy dobrać się w zespoły. Proszę nazwać zespół (nazwa zespołu pojawi się w tabeli z wynikami). Proszę nie używać danych osobowych w nazwach.
 
 ### Zbiór danych i cel konkursu
-Celem konkursu jest uzyskanie jak największej metryki celu w klasyfikacji zmiennej celu **IsIPA**. 
+Celem konkursu jest uzyskanie jak największej metryki celu w klasyfikacji zmiennej celu **IsIPA**.
 Metryką celu jest:
 * [**F1-Score**](https://en.wikipedia.org/wiki/F-score) dla grup 11,13,15,17,
 * [**Accuracy**](https://en.wikipedia.org/wiki/Accuracy_and_precision#In_classification) dla grup 12,14,16,18.
@@ -82,6 +82,7 @@ Tabela z rankingiem zespołów pojawi się na GitHubie w poniższym pliku README
 |--------------------------|--------------|------------|------------------------------|-------------------------|
 | Motor Lublin             | 0.8706       | 5          | Random Forest                | Python                  |
 | Szybko i do domu         | 0.8698       | 4          | XGBoost                      | Python                  |
+| MPKC                     | 0.8698       | 4          | XGBoost                      | Python                  |
 | witam (big data edition) | 0.8684       | 3          | XGBoost                      | Python                  |
 | Wtorek15                 | 0.8610       | 2          | XGBoost                      | Python                  |
 | XmasBoost                | 0.6886       | 1          | Gradient Boosting Classifier | Python                  |
